@@ -1,3 +1,6 @@
+For this assignment I was tasked to append a table with the UFO sighting data and be able to serach any date/city/state/country and the html give results.
+
+
 # JavaScript Homework - JavaScript and DOM Manipulation
 
 ## Background
